@@ -116,3 +116,8 @@ var letterCombinations = function(digits) {
 # 单调栈
 # BFS
 可以求最短路径
+# 图
+- 建tu
+- bfs或者dfs
+- 关注入度和出度以及visited
+        }
