@@ -117,7 +117,6 @@ var letterCombinations = function(digits) {
 # BFS
 可以求最短路径
 # 图
-- 建tu
+- 建图
 - bfs或者dfs
 - 关注入度和出度以及visited
-        }
